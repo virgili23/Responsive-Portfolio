@@ -172,6 +172,7 @@ footer {
 
 .work img {
     width: 100%;
+    height: 260px;
     border: 0 none;
     opacity: .8;
 }
